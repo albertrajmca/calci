@@ -1,12 +1,11 @@
 {
-    "name": "albertrajmca/calculator",
-    "description": "Simple Calculator",
-    "authors": [
+    "repositories": [
         {
-            "name": "ATS",
-            "email": "albertrajmca@gmail.com"
+            "type": "vcs",
+            "url": "https://github.com/albertrajmca/calculator"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "albertrajmca/calculator": "dev-master"
+    }
 }
