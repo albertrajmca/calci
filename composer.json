@@ -1,0 +1,12 @@
+{
+    "name": "albert/calculator",
+    "description": "Simple Calculator",
+    "authors": [
+        {
+            "name": "ATS",
+            "email": "asebastiar@taxbackinternational.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
