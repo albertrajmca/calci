@@ -1,10 +1,10 @@
 {
-    "name": "albert/calculator",
+    "name": "albertrajmca/calculator",
     "description": "Simple Calculator",
     "authors": [
         {
             "name": "ATS",
-            "email": "asebastiar@taxbackinternational.com"
+            "email": "albertrajmca@gmail.com"
         }
     ],
     "minimum-stability": "dev",
