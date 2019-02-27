@@ -12,13 +12,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "albertrajmca\\calculator\\CalculatorServiceProvider"
+                "devalby\\calculator\\CalculatorServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "Albertrajmca\\Calculator\\": "src/"
+            "Devalby\\Calculator\\": "src/"
         }
     }
 }
